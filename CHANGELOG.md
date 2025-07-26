@@ -10,3 +10,4 @@
   - Added PR Template
 - Added initial homepage setup
 - Added ability to add tasks with button and enter key
+- Updated font and checkbox styles
